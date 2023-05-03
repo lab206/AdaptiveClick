@@ -1,7 +1,7 @@
 ### <p align="center"> AdaptiveClick: Clicks-aware Transformer with Adaptive Focal Loss for Interactive Image Segmentation
 <br>
 <div align="center">
-  Jiachen&nbsp;Lin</a> <b>&middot;</b>
+  Jiacheng&nbsp;Lin</a> <b>&middot;</b>
   Jiajun&nbsp;Chen</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Kailun-Yang" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Alina-Roitberg-2" target="_blank">Alina&nbsp;Roitberg</a> <b>&middot;</b>
