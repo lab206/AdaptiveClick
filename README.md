@@ -3,7 +3,7 @@
 <div align="center">
   Jiacheng&nbsp;Lin</a> <b>&middot;</b>
   Jiajun&nbsp;Chen</a> <b>&middot;</b>
-  <a href="https://www.researchgate.net/profile/Kailun-Yang" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
+  <a href="https://yangkailun.com/" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Alina-Roitberg-2" target="_blank">Alina&nbsp;Roitberg</a> <b>&middot;</b>
   Siyu&nbsp;Li</a> <b>&middot;</b>
   Zhiyong&nbsp;Li</a> <b>&middot;</b>
