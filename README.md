@@ -5,6 +5,7 @@
   Jiajun&nbsp;Chen</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Kailun-Yang" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Alina-Roitberg-2" target="_blank">Alina&nbsp;Roitberg</a> <b>&middot;</b>
+  Siyu&nbsp;Li</a> <b>&middot;</b>
   Zhiyong&nbsp;Li</a> <b>&middot;</b>
   Shutao&nbsp;Li</a>
   <br> <br>
@@ -19,7 +20,7 @@
 <p align="center">:fire: We will release code and checkpoints in the future. :fire:</p>
 <br>
 
-<div align=center><img src="https://s2.loli.net/2023/05/03/YiDE2HhVTksWwx1.png" /></div>
+<div align=center><img src="assets/network.png" /></div>
 
 ### Update
 - 2023.05.03 Init repository.
