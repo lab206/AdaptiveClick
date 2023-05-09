@@ -9,13 +9,13 @@
   Zhiyong&nbsp;Li</a> <b>&middot;</b>
   Shutao&nbsp;Li</a>
   <br> <br>
-
-  <a href="" target="_blank">Paper</a>
+  <a href="https://arxiv.org/pdf/2305.04276.pdf" target="_blank">Paper</a>
 </div>
 
 ####
 
 <br>
+
 <p align="center">:hammer_and_wrench: :construction_worker: :rocket:</p>
 <p align="center">:fire: We will release code and checkpoints in the future. :fire:</p>
 <br>
