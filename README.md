@@ -41,5 +41,15 @@ guarantee, where two adaptive coefficients control the ratio of gradient values 
 the commonly used Focal and BCE losses can be considered special cases of the proposed AFL loss. With a plain ViT backbone,
 extensive experimental results on nine datasets demonstrate the superiority of AdaptiveClick compared to state-of-the-art methods.
 
+## Citation
+~~~bibtex
+@article{lin2023adaptiveclick,
+      title={AdaptiveClick: Clicks-aware Transformer with Adaptive Focal Loss for Interactive Image Segmentation}, 
+      author={Jiacheng Lin and Jiajun Chen and Kailun Yang and Alina Roitberg and Siyu Li and Zhiyong Li and Shutao Li},
+      journal={arXiv preprint arXiv:2305.04276},
+      year={2023}
+}
+~~~
+
 ## Acknowledgement
 Our project is developed based on [RITM](https://github.com/saic-vul/ritm_interactive_segmentation), [SimpleClick](https://github.com/uncbiag/SimpleClick) and [Mask2Former](https://github.com/facebookresearch/Mask2Former). Thanks for their excellence works.
