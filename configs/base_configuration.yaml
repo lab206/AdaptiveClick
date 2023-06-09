@@ -1,0 +1,29 @@
+INTERACTIVE_MODELS_PATH: "./weights"
+EXPS_PATH: "./experiments"
+
+# Evaluation datasets
+GRABCUT_PATH: "./datasets/GrabCut"
+BERKELEY_PATH: "./datasets/Berkeley"
+DAVIS_PATH: "./datasets/DAVIS"
+
+COCO_MVAL_PATH: "./datasets/COCO_MVal"
+
+# Train datasets
+SBD_PATH: "./datasets/SBD"
+COCO_PATH: "./datasets/LVIS"
+LVIS_PATH: "./datasets/LVIS"
+LVIS_v1_PATH: "./datasets/LVIS"
+
+OPENIMAGES_PATH: "./datasets/OpenImages"
+PASCALVOC_PATH: "./datasets/VOC2012"
+ADE20K_PATH: "./datasets/ADE20K"
+
+BraTS_PATH: "./datasets/BraTS20"
+ssTEM_PATH: "./datasets/ssTEM/stack1"
+OAIZIB_PATH: "./datasets/OAI-ZIB"
+
+# For SimpleClick
+IMAGENET_PRETRAINED_MODELS:
+  MAE_BASE: "./weights/mae_pretrain_vit_base.pth"
+  MAE_LARGE: "./weights/mae_pretrain_vit_large.pth"
+  MAE_HUGE: "./weights/mae_pretrain_vit_huge.pth"
