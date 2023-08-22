@@ -1,0 +1,14 @@
+matplotlib==3.3.4
+torch==1.12.1
+torchvision==0.13.1
+setuptools==52.0.0
+albumentations==0.5.2
+PyYAML==6.0
+easydict==1.9
+tensorboard==2.8.0
+opencv-python-headless==4.5.3.56
+albumentations==0.5.2
+mmcv==1.6.2
+timm==0.6.11
+Cython==0.29.32
+fvcore==0.1.5.post20221221
